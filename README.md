@@ -6,4 +6,5 @@ https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25
 
 You can download the data into your R session with:
 
-`ufo_sightings <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")`
+`| lib  
+| ufo_sightings <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")`
