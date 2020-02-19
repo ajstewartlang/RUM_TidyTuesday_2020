@@ -9,4 +9,4 @@ You can download the data into your R session and map it onto a variable called 
 `library(tidyverse)`\
 `ufo_sightings <- read_csv("https://bit.ly/3bQTJAV")`  
 
-Your challenges is to recreate one of the visualisations [here](https://raw.githubusercontent.com/ajstewartlang/RUM_TidyTuesday_2020/master/plots_to_recreate.jpeg)
+Your challenges is to recreate one of the visualisations [here](https://raw.githubusercontent.com/ajstewartlang/RUM_TidyTuesday_2020/master/plots_to_recreate.jpeg).
