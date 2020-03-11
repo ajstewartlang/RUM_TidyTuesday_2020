@@ -17,4 +17,4 @@ Your challenge is to either recreate one (or more!) of the visualisations below 
 
 ![TIdy_Tuesday_UFO_data_images](https://raw.githubusercontent.com/ajstewartlang/RUM_TidyTuesday_2020/master/plots_to_recreate.jpeg)
 
-Towards the end of the session each of you can share you screens (if you want) to show your visualisations.  I'll then update the this repo with the code that I used to generate my visualisations.
+Towards the end of the session each of you can share you screens (if you want) to show your visualisations.  I'll then update  this repo with the code that I used to generate my visualisations.
