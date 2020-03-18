@@ -1,6 +1,6 @@
 # RUM_TidyTuesday_2020 - Repo for Wednesday March 18th
 
-Due to the dynamic coronavirus situation, this meeting will be held virtually.  I have set up a conference call via jitsi meet that you can acess at 1200 on the day.  This will work best using Chrome - so I recommend you use that to launch the meeting:
+Due to the 'situation', this meeting will be held virtually.  I have set up a conference call via jitsi meet that you can acess at 1200 on the day.  This will work best using Chrome - so I recommend you use that to launch the meeting:
 
 https://meet.jit.si/RUM_Tidy_Tuesday_On_A_Wednesday
 
